@@ -1,0 +1,195 @@
+*{
+    font-size: 14px;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+body{
+
+    min-height: 100vh;
+}
+.header{
+    height: 50px;
+    
+}
+
+.table-container{
+    text-align: center;
+    width: 100%;
+}
+
+.info-text{
+
+    padding: 1%;
+    margin-bottom:1% ;
+    text-align: center;
+    width: 100%;
+    background: beige;
+    
+}
+
+.signup{
+    margin: auto;
+}
+.login{
+    margin: auto;
+}
+
+
+.btn1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.intro-features{
+    margin: auto;
+    text-align: center;
+}
+
+.portal{
+    margin: 5px;
+    background-color: peachpuff;
+    border:1px solid grey;
+    border-radius:20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.author{
+    margin: 5px;
+    background-color: pink;
+    border:1px solid grey;
+    border-radius:20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.faq{
+    text-align: center;
+}
+.faq_ques{
+    text-align: left;
+    margin: 2% 2%;
+    
+}
+
+.about_img{
+    border: 2px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 100%;
+    margin:1%;
+}
+
+.faq-header{
+        padding: 1%;
+        width: 100%;
+        background-color: beige;
+}
+
+.accordion-button:hover{
+    background: lightgray;
+}
+
+.contact-address{
+    width: 30%;
+}
+
+.contact-form{
+    display: flex;
+    padding: 1%;
+    width: 30%;
+}
+
+
+.contact-header{
+    padding: 1%;
+    width: 100%;
+    background-color: beige;
+    text-align: center;
+}
+
+
+
+.contact-address{
+    background-color: pink;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 2%;
+    margin: 1%;
+    width: 30%;
+}
+
+
+
+
+.social-media{
+    background-color: peachpuff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 2%;
+    margin: 1%;
+    width: 30%;
+}
+
+.social-media ul{
+    margin: 5% 5%;
+    text-align: center;
+
+}
+.social-media ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 5% 5%;
+}
+.social-media ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.form{
+    margin: 1%;
+    font-family: sans-serif;
+    border: 2px solid grey;
+    border-radius: 5%;
+    padding: 2%;
+}
+
+
+@media only screen and (max-width: 800px) {
+
+*{
+    font-size: 12px;
+}
+
+.table-item img{
+    width: 300px;
+}
+.header{
+    height: 40px;
+}
+
+.contact-form{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact-us{
+    display: flex;
+}
+
+.contact-form{
+    width: 100vh;
+    justify-content: space-around;
+
+}
+
+.contact-address{
+    width: 100vh;
+}
+
+.social-media{
+    width: 100vh;
+
+
+}
+
+
+}
