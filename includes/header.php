@@ -1,7 +1,3 @@
-<?php
-require 'includes/db.php';
-?>
-
 <style>
     nav {
         background-color: lightcyan;
