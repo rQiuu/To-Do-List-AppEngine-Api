@@ -1,5 +1,6 @@
 <?php
 require 'includes/db.php';
+error_reporting(0);
 ?>
 
 <!DOCTYPE html>
