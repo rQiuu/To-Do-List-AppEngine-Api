@@ -19,13 +19,11 @@ error_reporting(0);
 
 <body>
 
-
     <div class="header">
         <?php
         include_once 'includes/header.php'
         ?>
     </div>
-
 
 
 

@@ -8,7 +8,7 @@
     <title>Home | To Do List</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <link href="css/index.css" rel="stylesheet">
-    <link rel="shortcut icon" href="icons/head.png" type="image/x-icon">
+    <link rel="shortcut icon" href="icon/head.png" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
@@ -64,7 +64,7 @@
             <td>
                 <div class="portal">
                     <h2 class="p-2">About The Portal</h2>
-                    <img src="icons/head.png" class="about_img" alt="icon_aboutweb" width="144px">
+                    <img src="icon/head.png" class="about_img" alt="icon_aboutweb" width="144px">
                     <p class="p-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus voluptatum distinctio in ipsum, sed possimus quas nostrum quos veniam nobis laborum enim repellendus iste et consequatur soluta fuga illum! Nihil, assumenda autem amet distinctio minima iste facere et facilis animi velit ad adipisci, odit architecto sunt, maxime tempora delectus culpa?</p>
                 </div>
             </td>
@@ -72,7 +72,7 @@
                 <div class="author">
 
                     <h2 class="p-2">About The Author</h2>
-                    <img src="icons/img-auth.png" class="about_img" alt="icon_aboutweb" width="144px">
+                    <img src="icon/img-auth.png" class="about_img" alt="icon_aboutweb" width="144px">
                     <p class="p-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus voluptatum distinctio in ipsum, sed possimus quas nostrum quos veniam nobis laborum enim repellendus iste et consequatur soluta fuga illum! Nihil, assumenda autem amet distinctio minima iste facere et facilis animi velit ad adipisci, odit architecto sunt, maxime tempora delectus culpa?</p>
 
                 </div>
@@ -218,28 +218,28 @@
 
                 <ul>
                     <li>
-                        <a href="https://twitter.com/Anmol2363"><img src="icons/twitter.png" alt="twitter" width="48px">
+                        <a href="https://twitter.com/Anmol2363"><img src="icon/twitter.png" alt="twitter" width="48px">
                             <p>Twitter</p>
                         </a>
 
                     </li>
                     <li>
-                        <a href="https://www.facebook.com/Anmol2363/"><img src="icons/fb.png" alt="facebook" width="48px">
+                        <a href="https://www.facebook.com/Anmol2363/"><img src="icon/fb.png" alt="facebook" width="48px">
                             <p>Facebook</p>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/aksharma_2363/"><img src="icons/insta.png" alt="insta" width="48px">
+                        <a href="https://www.instagram.com/aksharma_2363/"><img src="icon/insta.png" alt="insta" width="48px">
                             <p>Instagram</p>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/anmol-kumar-sharma-2706b4228/"><img src="icons/linkedin.png" alt="linkedin" width="48px">
+                        <a href="https://www.linkedin.com/in/anmol-kumar-sharma-2706b4228/"><img src="icon/linkedin.png" alt="linkedin" width="48px">
                             <p>LinkedIn</p>
                         </a>
                     </li>
                     <li>
-                        <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCFSmjbrLzTmlDQTJVThFDCjdSQjvpxVjCdWXjDPzSsjZvsBwcHLgbKxcWGSbZzdGMWzvB"><img src="icons/gmail.png" alt="linkedin" width="48px">
+                        <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCFSmjbrLzTmlDQTJVThFDCjdSQjvpxVjCdWXjDPzSsjZvsBwcHLgbKxcWGSbZzdGMWzvB"><img src="icon/gmail.png" alt="linkedin" width="48px">
                             <p>Gmail</p>
                         </a>
                     </li>

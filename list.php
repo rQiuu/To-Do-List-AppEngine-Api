@@ -14,7 +14,7 @@ error_reporting(0);
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <link href="css/list.css" rel="stylesheet">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
-    <link rel="shortcut icon" href="icons/head.png" type="image/x-icon">
+    <link rel="shortcut icon" href="icon/head.png" type="image/x-icon">
 </head>
 
 <body>
