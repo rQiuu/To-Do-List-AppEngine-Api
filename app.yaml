@@ -1,0 +1,20 @@
+runtime: nodejs18
+service: backend
+
+instance_class: F2
+
+env_variables:
+  DB_HOST: 'your_ip_host'
+  DB_USER: 'your_username'
+  DB_PASSWORD: 'your_password'
+  DB_NAME: 'your_db'
+
+automatic_scaling:
+  target_cpu_utilization: 0.65
+  min_instances: 1
+  max_instances: 5
+
+handlers:
+  - url: /.*
+    secure: always
+    script: auto
